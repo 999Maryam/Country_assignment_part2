@@ -1,4 +1,4 @@
-export let country_data = {
+export const country_data = {
     pakistan: {
         name: "Pakistan",
         population: "252,257,154",
